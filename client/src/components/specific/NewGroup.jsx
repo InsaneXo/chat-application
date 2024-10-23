@@ -6,4 +6,4 @@ const NewGroup = () => {
   )
 }
 
-export default NewGroup
+export default NewGroup 
