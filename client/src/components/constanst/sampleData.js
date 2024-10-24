@@ -66,10 +66,10 @@ export const sampleMessage = [
         url: "https://www.w3schools.com/howto/img_avatar.png",
       },
     ],
-    content: "",
+    content: "Hello Ji",
     _id: "sfnsdjkfsdnfkdddjsbnd",
     sender: {
-      _id: "sdfsdfsdf",
+      _id: "dfsfdsfasfd",
       name: "Chaman  2",
     },
     chat: "chatId",
