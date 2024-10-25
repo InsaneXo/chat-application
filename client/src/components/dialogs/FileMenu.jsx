@@ -3,7 +3,7 @@ import React from "react";
 
 const FileMenu = ({ anchorEl }) => {
   return (
-    <Menu>
+    <Menu open={false}>
       <div style={{ width: "10rem" }}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
         distinctio autem voluptatum nostrum quibusdam dignissimos dolores
