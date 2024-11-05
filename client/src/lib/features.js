@@ -13,7 +13,6 @@ const fileFormat = (url = "") => {
     fileExt === "gif"
   )
     return "image";
-    
 
   return "file";
 };
