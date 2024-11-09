@@ -14,7 +14,7 @@ const MessageManagement = lazy(() => import("./pages/admin/MessageManagement"));
 const UserManagement = lazy(() => import("./pages/admin/UserManagement"));
 
 const App = () => {
-  let user = false;
+  let user = true;
   return (
     <BrowserRouter>
       <Suspense fallback={<LayoutLoader />}>
